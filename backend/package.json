@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@sendgrid/mail": "^8.1.4",
+    "aws-sdk": "^2.1692.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.6",
+    "express": "^4.21.1"
+  }
+}
